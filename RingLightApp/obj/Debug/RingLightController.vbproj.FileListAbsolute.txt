@@ -1,0 +1,11 @@
+C:\Users\VinStudios\documents\visual studio 2015\Projects\RingLightController\RingLightController\bin\Debug\RingLightController.exe.config
+C:\Users\VinStudios\documents\visual studio 2015\Projects\RingLightController\RingLightController\bin\Debug\RingLightController.exe
+C:\Users\VinStudios\documents\visual studio 2015\Projects\RingLightController\RingLightController\bin\Debug\RingLightController.pdb
+C:\Users\VinStudios\documents\visual studio 2015\Projects\RingLightController\RingLightController\bin\Debug\RingLightController.xml
+C:\Users\VinStudios\documents\visual studio 2015\Projects\RingLightController\RingLightController\obj\Debug\RingLightController.RingLight.resources
+C:\Users\VinStudios\documents\visual studio 2015\Projects\RingLightController\RingLightController\obj\Debug\RingLightController.Resources.resources
+C:\Users\VinStudios\documents\visual studio 2015\Projects\RingLightController\RingLightController\obj\Debug\RingLightController.vbproj.GenerateResource.Cache
+C:\Users\VinStudios\documents\visual studio 2015\Projects\RingLightController\RingLightController\obj\Debug\RingLightController.exe
+C:\Users\VinStudios\documents\visual studio 2015\Projects\RingLightController\RingLightController\obj\Debug\RingLightController.xml
+C:\Users\VinStudios\documents\visual studio 2015\Projects\RingLightController\RingLightController\obj\Debug\RingLightController.pdb
+C:\Users\VinStudios\Documents\Visual Studio 2015\Projects\RingLightController\RingLightController\bin\Debug\NAudio.dll

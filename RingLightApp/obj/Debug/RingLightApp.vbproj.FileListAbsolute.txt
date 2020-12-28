@@ -1,0 +1,49 @@
+C:\Users\VinStudios\Documents\Visual Studio 2015\Projects\RingLightController\RingLightController\bin\Debug\RingLightApp.exe.config
+C:\Users\VinStudios\Documents\Visual Studio 2015\Projects\RingLightController\RingLightController\bin\Debug\RingLightApp.exe
+C:\Users\VinStudios\Documents\Visual Studio 2015\Projects\RingLightController\RingLightController\bin\Debug\RingLightApp.pdb
+C:\Users\VinStudios\Documents\Visual Studio 2015\Projects\RingLightController\RingLightController\bin\Debug\RingLightApp.xml
+C:\Users\VinStudios\Documents\Visual Studio 2015\Projects\RingLightController\RingLightController\bin\Debug\NAudio.dll
+C:\Users\VinStudios\Documents\Visual Studio 2015\Projects\RingLightController\RingLightController\obj\Debug\RingLightApp.vbprojResolveAssemblyReference.cache
+C:\Users\VinStudios\Documents\Visual Studio 2015\Projects\RingLightController\RingLightController\obj\Debug\RingLightApp.RingLight.resources
+C:\Users\VinStudios\Documents\Visual Studio 2015\Projects\RingLightController\RingLightController\obj\Debug\RingLightApp.Resources.resources
+C:\Users\VinStudios\Documents\Visual Studio 2015\Projects\RingLightController\RingLightController\obj\Debug\RingLightApp.vbproj.GenerateResource.Cache
+C:\Users\VinStudios\Documents\Visual Studio 2015\Projects\RingLightController\RingLightController\obj\Debug\RingLightApp.exe
+C:\Users\VinStudios\Documents\Visual Studio 2015\Projects\RingLightController\RingLightController\obj\Debug\RingLightApp.xml
+C:\Users\VinStudios\Documents\Visual Studio 2015\Projects\RingLightController\RingLightController\obj\Debug\RingLightApp.pdb
+C:\Users\VinStudios\Documents\Visual Studio 2015\Projects\RingLightApp\RingLightApp\bin\Debug\RingLightApp.exe.config
+C:\Users\VinStudios\Documents\Visual Studio 2015\Projects\RingLightApp\RingLightApp\bin\Debug\RingLightApp.exe
+C:\Users\VinStudios\Documents\Visual Studio 2015\Projects\RingLightApp\RingLightApp\bin\Debug\RingLightApp.pdb
+C:\Users\VinStudios\Documents\Visual Studio 2015\Projects\RingLightApp\RingLightApp\bin\Debug\RingLightApp.xml
+C:\Users\VinStudios\Documents\Visual Studio 2015\Projects\RingLightApp\RingLightApp\bin\Debug\NAudio.dll
+C:\Users\VinStudios\Documents\Visual Studio 2015\Projects\RingLightApp\RingLightApp\obj\Debug\RingLightApp.RingLight.resources
+C:\Users\VinStudios\Documents\Visual Studio 2015\Projects\RingLightApp\RingLightApp\obj\Debug\RingLightApp.Resources.resources
+C:\Users\VinStudios\Documents\Visual Studio 2015\Projects\RingLightApp\RingLightApp\obj\Debug\RingLightApp.vbproj.GenerateResource.Cache
+C:\Users\VinStudios\Documents\Visual Studio 2015\Projects\RingLightApp\RingLightApp\obj\Debug\RingLightApp.exe
+C:\Users\VinStudios\Documents\Visual Studio 2015\Projects\RingLightApp\RingLightApp\obj\Debug\RingLightApp.xml
+C:\Users\VinStudios\Documents\Visual Studio 2015\Projects\RingLightApp\RingLightApp\obj\Debug\RingLightApp.pdb
+D:\PROJECTS\RingLightApp\RingLightApp\obj\Debug\RingLightApp.vbprojResolveAssemblyReference.cache
+D:\PROJECTS\RingLightApp\RingLightApp\obj\Debug\RingLightApp.RingLight.resources
+D:\PROJECTS\RingLightApp\RingLightApp\obj\Debug\RingLightApp.Resources.resources
+D:\PROJECTS\RingLightApp\RingLightApp\obj\Debug\RingLightApp.vbproj.GenerateResource.Cache
+D:\PROJECTS\RingLightApp\bin\RingLightApp.exe.config
+D:\PROJECTS\RingLightApp\bin\RingLightApp.exe
+D:\PROJECTS\RingLightApp\bin\RingLightApp.pdb
+D:\PROJECTS\RingLightApp\bin\RingLightApp.xml
+D:\PROJECTS\RingLightApp\RingLightApp\obj\Debug\RingLightApp.exe
+D:\PROJECTS\RingLightApp\RingLightApp\obj\Debug\RingLightApp.xml
+D:\PROJECTS\RingLightApp\RingLightApp\obj\Debug\RingLightApp.pdb
+D:\PROJECTS\Ring Light\RingLightApp_v1.1\bin\RingLightApp.exe.config
+D:\PROJECTS\Ring Light\RingLightApp_v1.1\RingLightApp\obj\Debug\RingLightApp.exe
+D:\PROJECTS\Ring Light\RingLightApp_v1.1\RingLightApp\obj\Debug\RingLightApp.xml
+D:\PROJECTS\Ring Light\RingLightApp_v1.1\RingLightApp\obj\Debug\RingLightApp.pdb
+D:\PROJECTS\Ring Light\RingLightApp_v1.1\bin\RingLightApp.exe
+D:\PROJECTS\Ring Light\RingLightApp_v1.1\bin\RingLightApp.pdb
+D:\PROJECTS\Ring Light\RingLightApp_v1.1\bin\RingLightApp.xml
+D:\PROJECTS\Ring Light\RingLightApp_v1.1\RingLightApp\obj\Debug\RingLightApp.vbprojResolveAssemblyReference.cache
+D:\PROJECTS\Ring Light\RingLightApp_v1.1\RingLightApp\obj\Debug\RingLightApp.RingLight.resources
+D:\PROJECTS\Ring Light\RingLightApp_v1.1\RingLightApp\obj\Debug\RingLightApp.Resources.resources
+D:\PROJECTS\Ring Light\RingLightApp_v1.1\RingLightApp\obj\Debug\RingLightApp.vbproj.GenerateResource.Cache
+E:\PROJECTS\Ring Light\RingLightApp_v1.1\bin\RingLightApp.exe.config
+E:\PROJECTS\Ring Light\RingLightApp_v1.1\RingLightApp\obj\Debug\RingLightApp.exe
+E:\PROJECTS\Ring Light\RingLightApp_v1.1\RingLightApp\obj\Debug\RingLightApp.xml
+E:\PROJECTS\Ring Light\RingLightApp_v1.1\RingLightApp\obj\Debug\RingLightApp.pdb
